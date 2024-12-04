@@ -1,4 +1,4 @@
-# # **DL Group Work Project 2 M5 - Student Group 7622**  
+# **Multi-Asset LSTM Trading Strategies: Single vs. Multi-Output Model Performance**
 
 ### **Introduction**  
 
