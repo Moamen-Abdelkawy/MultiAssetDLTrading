@@ -1,0 +1,22 @@
+# Core libraries
+numpy==1.24.3
+pandas==1.5.3
+
+# Visualization libraries
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Financial data
+yfinance==0.2.12
+
+# Statistical libraries
+statsmodels==0.13.5
+
+# Machine learning and data preprocessing
+scikit-learn==1.2.2
+
+# Deep learning
+tensorflow==2.13.0
+
+# Utilities for saving data
+pickle5==0.0.11
